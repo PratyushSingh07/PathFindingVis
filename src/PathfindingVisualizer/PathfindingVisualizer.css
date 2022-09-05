@@ -1,0 +1,16 @@
+body{
+  background: linear-gradient(#f5f7fa   ,#c3cfe2 );
+}
+.grid-container {
+  margin: 10% auto;
+  background-color: white;
+}
+
+.grid {
+  white-space: pre;
+  
+}
+
+button {
+  margin: 2px;
+}
